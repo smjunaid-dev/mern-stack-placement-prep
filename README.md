@@ -2,8 +2,6 @@
 
 This repository contains my daily learning and practice work for MERN Stack placement preparation.
 
-## Day 1 - HTML Basics
-
 ### Topics Covered
 - HTML Document Structure
 - Headings and Paragraphs
