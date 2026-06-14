@@ -136,7 +136,7 @@ Through these projects, I have learned:
 
 **Shaik Mohammed Junaid**
 
-B.Tech CSE (AI) | SRM University
+B.Tech CSE (AI & DS) | SRM University
 
 GitHub: https://github.com/smjunaid-dev
 
