@@ -1,48 +1,145 @@
-# MERN Stack Placement Prep
+# 🚀 MERN Stack Placement Preparation
 
-This repository contains my daily learning and practice work for MERN Stack placement preparation.
+<p align="center">
+  <b>Daily Practice • Projects • DSA • Web Development • Placement Readiness</b>
+</p>
 
-### Topics Covered
-- HTML Document Structure
-- Headings and Paragraphs
-- Ordered Lists (`<ol>`)
-- Unordered Lists (`<ul>`)
-- Tables
-- Images
-- Hyperlinks
-- Forms
-- Basic Page Layout using `<div>`
+---
 
-### Project Description
-Created a simple Placement App webpage that includes:
-- Welcome message
-- Ordered and unordered lists
-- Student placement details table
-- Profile image display
-- External link to Google
-- Student profile table with image
-- Basic form for student name input
+## 📖 Overview
 
-### Technologies Used
-- HTML5
+This repository contains my daily learning, coding practice, and project work focused on becoming a proficient MERN Stack Developer and preparing for software engineering placements.
 
-### Folder Structure
+The repository documents my progress through web development fundamentals, hands-on projects, problem-solving, and full-stack development concepts.
+
+---
+
+## 🛠️ Technologies Covered
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* Bootstrap
+
+### Backend (Upcoming)
+
+* Node.js
+* Express.js
+
+### Database (Upcoming)
+
+* MongoDB
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📚 Topics Practiced
+
+* HTML Document Structure
+* Headings & Paragraphs
+* Lists (Ordered & Unordered)
+* Tables
+* Images
+* Hyperlinks
+* Forms
+* Div Layouts
+* Semantic HTML
+* Basic Styling
+* Responsive Design Fundamentals
+
+---
+
+## 📂 Projects
+
+### 1️⃣ Placement App Webpage
+
+A beginner-friendly HTML project demonstrating:
+
+* Welcome Section
+* Ordered & Unordered Lists
+* Placement Details Table
+* Student Information Table
+* Profile Image Display
+* External Navigation Links
+* Student Registration Form
+
+---
+
+### 2️⃣ Student Manager
+
+A simple student management application built using:
+
+* HTML
+* CSS
+* JavaScript
+
+#### Features
+
+* Add Student Details
+* Display Student Records
+* Delete Student Records
+* Clean User Interface
+* Responsive Layout
+
+---
+
+## 📁 Folder Structure
 
 ```text
-Day-1/
+placement/
 │
-├── index.html
-├── resume junaid.jpeg
+├── Day-1/
+│   ├── index.html
+│   ├── resume junaid.jpeg
+│   └── README.md
+│
+├── Student_Manager/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── README.md
+│
 └── README.md
 ```
 
-### Learning Outcome
-By completing this project, I learned:
-- How to structure an HTML page
-- How to create tables and lists
-- How to add images and hyperlinks
-- How to create basic forms
-- Fundamental HTML tags used in web development
+## 🎯 Learning Outcomes
 
-### Author
-Shaik Mohammed Junaid
+Through these projects, I have learned:
+
+* Structuring webpages using HTML
+* Creating forms and tables
+* Working with images and hyperlinks
+* Applying CSS styling techniques
+* Implementing JavaScript DOM manipulation
+* Managing projects using Git and GitHub
+* Building a foundation for MERN Stack development
+
+---
+
+## 📈 Current Goal
+
+* Strengthen MERN Stack Development Skills
+* Improve Data Structures & Algorithms
+* Build Real-World Projects
+* Prepare for Software Engineering Placements
+
+---
+
+## 👨‍💻 Author
+
+**Shaik Mohammed Junaid**
+
+B.Tech CSE (AI) | SRM University
+
+GitHub: https://github.com/smjunaid-dev
+
+---
+
+⭐ Consistent progress, one commit at a time.
