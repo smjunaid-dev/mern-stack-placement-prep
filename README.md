@@ -3,9 +3,9 @@
 <p align="center">
   <b>Daily Practice • Projects • DSA • Web Development • Placement Readiness</b>
 </p>
-
+    
 ---
-
+ 
 ## 📖 Overview
 
 This repository contains my daily learning, coding practice, and project work focused on becoming a proficient MERN Stack Developer and preparing for software engineering placements.
