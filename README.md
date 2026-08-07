@@ -8,7 +8,7 @@
  
 ## 📖 Overview
 
-This repository contains my daily learning, coding practice, and project work focused on becoming a proficient MERN Stack Developer and preparing for software engineering placements.
+This repository contains my daily learning, coding practice, and project work focused on becoming a proficient MERN Stack Developer and preparing for software engineering placements.     
 
 The repository documents my progress through web development fundamentals, hands-on projects, problem-solving, and full-stack development concepts.
 
